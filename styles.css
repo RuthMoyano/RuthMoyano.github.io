@@ -1,0 +1,19 @@
+h1 {
+  font-family: 'Yellowtail', cursive;
+  background-color: #cb997e;
+  background: #ffe8d6;
+}
+
+.tiltles {
+  font-family: 'Josefin Slab', serif;
+  background-color: black;
+}
+
+img (
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-size: 45px;
+}
